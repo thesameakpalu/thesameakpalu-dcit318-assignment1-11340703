@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\bin\Debug\net8.0\GradeCalculator.exe
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\bin\Debug\net8.0\GradeCalculator.deps.json
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\bin\Debug\net8.0\GradeCalculator.runtimeconfig.json
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\bin\Debug\net8.0\GradeCalculator.dll
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\bin\Debug\net8.0\GradeCalculator.pdb
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.sourcelink.json
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.dll
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\refint\GradeCalculator.dll
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\USER\Desktop\Programming 2\Assignment 1\thesameakpalu-dcit318-assignment1-11340703\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll

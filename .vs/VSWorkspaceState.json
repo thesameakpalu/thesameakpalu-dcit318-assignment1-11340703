@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TriangleTypeIdentifier"
   ],
+  "SelectedNode": "\\TriangleTypeIdentifier\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
